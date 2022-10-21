@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 562.5%;
+    margin: auto;
+    color: #7DE5ED;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: #7DE5ED;
+    padding-left: 0;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #7DE5ED;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border-style: dotted;
+    border-bottom: none;
+    border-width: 4px;
+    border-color: gray;
+    margin: 2% 45% 2% ;
+}
+
+.bottom-cloud{
+    position: relative;
+    padding-right: 1000px;
+}
+
+.top-cloud{
+    position: relative;
+    padding-left: 700px;
+    padding-top: 100px;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    margin-bottom: 50px;
+}
+
+.middle-container{
+    margin: auto;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    margin-top: 2%;
+    padding: 50px 0 20px;
+}
+
+.pic{
+    width: 10%;
+    border-radius: 1%;
+}
+
+.skills-img{
+    width: 15%;
+    border-radius: 50%;
+    margin-right: 2%;
+    float: left;
+}
+
+.my-skill-heading{
+    text-align: left;
+}
+
+.about-my-skill{
+    text-align: left;
+}
+
+.btn {
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    background: #3498db;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+
+.footer-link{
+    color: #11999E;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.end{
+    color:#EAF6F6;
+}
